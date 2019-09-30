@@ -8,3 +8,5 @@
  navbar.csv - The output file containing the url of the home page and a list of navigation urls.
 
 all_links.py - extracts all links and titles from homepage of a website 
+
+Content_Extractor.py - extracts the title, first and last paragraph from a web page
